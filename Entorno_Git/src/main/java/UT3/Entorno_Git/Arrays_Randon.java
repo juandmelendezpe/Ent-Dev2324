@@ -17,5 +17,6 @@ public class Arrays_Randon {
 			}
 			System.out.println();
 		}
+
 	}
 }
