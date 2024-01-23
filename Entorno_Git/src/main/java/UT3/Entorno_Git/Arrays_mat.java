@@ -12,5 +12,4 @@ public class Arrays_mat {
 			
 		}
 	}
-
 }
