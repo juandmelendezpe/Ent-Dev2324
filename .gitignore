@@ -1,8 +1,12 @@
-/.metadata/
+.metadata/
 
 # Compiled class file
 *.class
 target/
+.metadata/*
+*.metadata/
+
+
 
 # Log file
 *.log
